@@ -447,8 +447,8 @@ section{
 	content: "My work";
 }
 .artwork .carousel .card{
-	background: #222;
-	border-radius: 6px;
+	background: none;
+	border-radius: 2px;
 	padding: 25px 35px;
 	text-align: center;
 	overflow: hidden;
@@ -476,7 +476,7 @@ section{
 	height: 150px;
 	width: 150px;
 	object-fit: cover;
-	border: 5px solid #94E8B4;
+	border: 2px solid #94E8B4;
 	transition: all 0.3s ease;
 }
 .artwork .carousel .card:hover img{
