@@ -443,7 +443,7 @@ section{
 }
 
 /*artwork section styling*/
-.artwork .title::after{
+/*.artwork .title::after{
 	content: "My work";
 }
 .artwork .carousel .card{
@@ -500,7 +500,7 @@ section{
 }
 .owl-dot .active, .owl-dot:hover{
 	background: #94E8B4;
-}
+}*/
 
 /*contact section styling*/
 .contact .contact-content{
